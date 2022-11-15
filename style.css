@@ -1,0 +1,11 @@
+
+h1{
+    color: yellow;
+}
+p{
+    background-color: grey;
+}
+body {
+    max-width: max-content;
+    margin: auto;
+}
